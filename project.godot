@@ -18,7 +18,3 @@ _global_script_class_icons={
 config/name="E04a-Sprites"
 run/main_scene="res://Scenes/Game.tscn"
 config/icon="res://icon.png"
-
-[rendering]
-
-environment/default_environment="res://default_env.tres"
